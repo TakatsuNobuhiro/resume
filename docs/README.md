@@ -19,7 +19,7 @@ GCP と AWS 両方に精通しているため、クラウドの技術選定も�
 
 - [フットサル戦術メディアフットテック](https://futsal.tech/)
 - [フットサル戦術ボード(web 版)](https://board.futsal.tech/)
-- [フットサル戦術ボード(App 版)](https://apps.apple.com/jp/app/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%88%A6%E8%A1%93%E3%83%9C%E3%83%BC%E3%83%89/id6741555702)
+- [フットサル戦術ボード(App 版 React Native で開発)](https://apps.apple.com/jp/app/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%88%A6%E8%A1%93%E3%83%9C%E3%83%BC%E3%83%89/id6741555702)
 
 ※代表的なサービスのみ記載
 
