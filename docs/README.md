@@ -17,7 +17,7 @@
 
 ## 得意な技術
 
-- Typescript
+- TypeScript
 - React.js,Next.js
 - Python(大学の授業から使用）
 - SQL,DB 全般
@@ -25,7 +25,7 @@
 
 フロントからインフラまで幅広い経験があります。最近は LLM に興味を持ってプライベートで勉強したり、勉強会にもたくさん参加しています。
 
-## 2023 年 4 月~2024 年 12 月 [合同会社 DMM.com](http://合同会社DMM.com) オンラインサロン開発部
+## 2023 年 4 月~2024 年 12 月 合同会社 DMM.com オンラインサロン開発部
 
 ## サロン開設審査 AI レギュレーションチェックによる自動化
 
@@ -58,9 +58,9 @@
 
 ### **詳細な内容、発揮したバリュー**
 
-モノリスなサービスをマイクロサービス化するのに伴い新 DB に全て移行することにした。AWS MSK+Lambda でリアルタイム旧 DB の変更を検知し、新 DB に書き込み（Insert or Update)を行う仕組みをサーバーレスで作成した。新 DB の設計はドメイン駆動設計を元にデータベースを分割し、適切に正規化を行った。
+モノリスなサービスをマイクロサービス化するのに伴い、新 DB に全て移行することにした。AWS MSK+Lambda でリアルタイム旧 DB の変更を検知し、新 DB に書き込み（Insert or Update)を行う仕組みをサーバーレスで作成した。新 DB の設計はドメイン駆動設計を元にデータベースを分割し、適切に正規化を行った。
 
-リプレイス先のシステムはモジュラモノリス＋マイクロサービスアーキテクチャで開発し、DDD（ドメイン駆動設計）で適切にサービスを分割し Golang+gRPC で開発し。BFF は Node.js,Fastify,Typesctipt,GraphQL で開発しスキーマ設計から一貫して行った。フロントエンドは Next.js(App router)+Pandacss で開発した。
+リプレイス先のシステムはモジュラモノリス＋マイクロサービスアーキテクチャで開発し、DDD（ドメイン駆動設計）で適切にサービスを分割し Golang+gRPC で開発した。BFF は Node.js,Fastify,TypeScript,GraphQL で開発しスキーマ設計から一貫して行った。フロントエンドは Next.js(App router)+Pandacss で開発した。
 
 ただリプレイスするだけでなく、ユーザーに届けたい価値やビジネス的な観点を考えながらデザイナーと壁打ちしてリプレイスに伴い画面や機能もアップデートさせていった。
 
@@ -191,7 +191,7 @@ Bitrise
 
 ### 使用した技術
 
-フロントエンド：Vue.js(2),Nuxt.js(2), Vuetify, Typescript,Figma
+フロントエンド：Vue.js(2),Nuxt.js(2), Vuetify, TypeScript,Figma
 バックエンド：Python(3.8),Django(3),MySQL(8)
 インフラ：AWS,Docker,Redis
 
@@ -200,7 +200,7 @@ Bitrise
 ### 概要
 
 株式会社 TORICO(今年マザーズ上場)で漫画全巻ドットコムの開発に 1 年従事し、新規機能開発、不具合調整、リプレース業務を行った。
-(リプレース業務は元々 php + smarty で書かれていたものを脆弱性や保守性の観点から Django(Python) +Nuxt.js(Typescript)でリプレースするプロジェクト)
+(リプレース業務は元々 php + smarty で書かれていたものを脆弱性や保守性の観点から Django(Python) +Nuxt.js(TypeScript)でリプレースするプロジェクト)
 
 ### 実績、業務内容
 
@@ -215,7 +215,7 @@ Bitrise
 
 ### 使用技術
 
-フロントエンド：Vue.js(2),Nuxt.js(2),Typescript
+フロントエンド：Vue.js(2),Nuxt.js(2),TypeScript
 バックエンド：Python(3.8),Django(3),MySQL(5.8)
 インフラ：AWS,Docker,Redis
 
