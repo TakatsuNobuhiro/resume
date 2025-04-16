@@ -107,7 +107,7 @@ IPC：gRPC, GraphQL
 
 構成管理：Terraform
 
-CI：CircleCI,Github Actions
+CI：CircleCI,GitHub Actions
 
 ### **DB 同期(サーバーレスアーキテクチャ)**
 
