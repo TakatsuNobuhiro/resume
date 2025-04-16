@@ -7,6 +7,7 @@
 | 生年月日 | 1998/06/22                                                     |
 | GitHub   | [TakatsuNobuhiro](https://github.com/TakatsuNobuhiro)          |
 | Wantedly | [takatsunobuhiro](https://www.wantedly.com/id/takatsunobuhiro) |
+| YOUTRUST | [tk2](https://youtrust.jp/users/tk2)                           |
 
 LLM× プロダクト開発の限界に挑戦中。
 LLM をプロダクトに組み込むことと LLM を用いて少ない工数で開発することに興味があります。
