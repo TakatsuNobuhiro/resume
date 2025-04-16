@@ -120,9 +120,15 @@ GCP と AWS 両方精通しているのでクラウドの技術選定も得意�
 
 ただリプレイスするだけでなく、ユーザーに届けたい価値やビジネス的な観点を考えながらデザイナーと壁打ちしてリプレイスに伴い画面や機能もアップデートさせていった。
 
+このプロジェクトを通して今まで経験したことが無かった Golang,gRPC,graphQL,terraform などのモダンな技術やスクラム開発を経験することができた。
+
 ### **参考記事**
 
-https://inside.dmm.com/articles/salon-neon/
+- https://inside.dmm.com/articles/salon-neon/
+- https://inside.dmm.com/articles/salon-datebase-migration/
+- https://inside.dmm.com/articles/salon-datebase-migration-challenges/
+- https://inside.dmm.com/articles/salon-neon-protobuf-docusaurus/
+- https://inside.dmm.com/articles/salon-neon-stack/
 
 ### **使用技術**
 
