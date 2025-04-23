@@ -35,6 +35,15 @@ GCP と AWS 両方に精通しているため、クラウドの技術選定も�
 - SQL, DB 全般
 - クラウドインフラ全般（Associate 資格 GCP, AWS 両方保持）
 
+## 取得資格
+
+| 資格名                                        | 取得時期      |
+| --------------------------------------------- | ------------- |
+| Associate Cloud Engineer                      | 2023 年 7 月  |
+| 基本情報技術者試験                            | 2022 年 10 月 |
+| AWS Certified Solutions Architect - Associate | 2022 年 8 月  |
+| AWS Certified Cloud Practitioner              | 2022 年 7 月  |
+
 ## Resource 株式会社（2024 年 04 月～現在、副業）
 
 ### 概要
