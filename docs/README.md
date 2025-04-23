@@ -178,6 +178,16 @@ GCP と AWS 両方に精通しているため、クラウドの技術選定も�
 - インフラ：Elastic Beanstalk, Aurora MySQL, Elemental MediaLive
 - その他：Firebase, Sentry, NewRelic, CircleCI, Bitrise
 
+## 新卒研修(2023 年 4 月~8 月)
+
+第二新卒で入社したため、希望の元新卒に混じって研修を受けさせて頂きました。
+今まで触ったことなかった技術(Golang, GCP, Terraform, React.js, Next.js etc)がキャッチアップでき、体系的なエンジニアリングの基礎を身につけることができました。
+![新卒研修](https://lh3.googleusercontent.com/ODbZ5ZiqkYNZCb5Z-ys2tK1tofG6MocY7Cb_6HZImL23N5yzx17MmoWOr65578zhgfefKtsvSW5Qhhu7K8-OYtqbVyJQTVUMiS1cxzdM7c__DD2whMzz7CIggdFdRbUfHVWQBlfqS2TiBlREa9azdS8)
+
+### 参考記事
+
+https://inside.dmm.com/articles/engineer-training-2023/
+
 ## 株式会社 TORICO（2021 年 7 月〜2022 年 10 月 正社員＋インターン）
 
 ### スキマの開発（2022 年 10 月〜2023 年 3 月）
