@@ -11,6 +11,12 @@ h1:first-child {
   text-align: center;
 }
 
+h2,
+h3,
+h4 {
+  break-after: avoid-page;
+}
+
 table {
   font-size: 11px;
   border-collapse: collapse;
