@@ -28,7 +28,7 @@ LLM をプロダクトに組み込むことと、LLM を活用して開発を効
 - [フットサル戦術メディアフットテック](https://futsal.tech/)
 - [サークルの出欠アプリ](https://circle-calendar.futsal.tech/)
 - [個人フットボールマッチングサイト](https://foot-match.futsal.tech/)
-- [フットサル戦術ボード（Web 版）](https://board.futsal.tech/)
+- [フットサル戦術ボード(ios)](https://board.futsal.tech/)
 
 ※代表的なサービスのみ記載
 
